@@ -1,4 +1,7 @@
-# WSL Ecosystem Auto-Configuration
+# WSL Ecosystem
+
+[![GitHub](https://img.shields.io/badge/View_on-GitHub-black?logo=github)](https://github.com/linux-utils/bash-aliases)
+[![MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
 ## Описание
 
